@@ -17,5 +17,3 @@ def run_guessing_game
   end
   message
 end
-
-run_guessing_game
